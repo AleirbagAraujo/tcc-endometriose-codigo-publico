@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Dados, resultados e pesos nao fazem parte do repositorio publico.
+tcc_fotos/
+dataset*/
+resultados/
+runs/
+*.keras
+*.h5
+*.pt
+*.onnx
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.docx
